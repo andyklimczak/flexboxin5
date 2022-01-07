@@ -1,3 +1,8 @@
-# flexboxin5 (mirror)
+# flexboxin5 (mirror) (fork)
 
-A mirror of http://flexboxin5.com
+Upstream URL no longer worked. Forked and changed href base url to work.
+This website is too helpful to not be up.
+
+All credit goes to upstream
+
+Should be accessible at: https://andyklimczak.github.io/flexboxin5/
